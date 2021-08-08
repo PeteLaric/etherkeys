@@ -1,6 +1,8 @@
 # etherkeys
 A novel password management program that generates keys using cryptographic hashes of a master key.
 
+Demo video: https://youtu.be/WlUymjBRrZo
+
 	etherkeys.c
 	(c) 2021-08-07 Pete Laric
 	http://www.PeteLaric.com
