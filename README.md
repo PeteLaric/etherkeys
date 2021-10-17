@@ -34,6 +34,8 @@ Demo video: https://youtu.be/WlUymjBRrZo
 	
 	USAGE:
 	
-		./etherkeys ["PASSPHRASE"]
+		./etherkeys ["PASSPHRASE"] [TABLE_SIZE]
 	
 	Quotation marks are optional for one-word keys, but necessary for multi-word passphrases if spaces are used between words.
+	
+	TABLE_SIZE is merely the number of keys you would like to generate.  There is no upper limit, but on some machines, the process can be quite slow.
