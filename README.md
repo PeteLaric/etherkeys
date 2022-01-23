@@ -15,10 +15,10 @@ Demo video: [IN PROGRESS...]  Here's an old one: https://youtu.be/WlUymjBRrZo
 	where they could get lost or stolen.  When you need them, they appear.  When
 	you don't need them, they disappear.  They literally don't exist.
 
-	Never use your master password for anything else, and it shouldn't be possible
-	for anyone to figure out what it is, ever.  If one generated key becomes
-	compromised, just stop using it.  Simple.  You can generate as many as you
-	need.
+	Never use your master passphrase for anything else, and it shouldn't be
+	possible for anyone to figure out what it is, ever.  If one generated key
+	becomes compromised, just stop using it.  Simple.  You can generate as many as
+	you need.
 
 	Enjoy this free software, and please consider sending a donation to support my
 	work!
